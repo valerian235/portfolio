@@ -1,0 +1,1 @@
+// Logic is handled by React in index.tsx and App.tsx
